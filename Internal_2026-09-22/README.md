@@ -1,6 +1,6 @@
 # Ethical Hacking Internal Submission
 
-Name: Ataur  
+Name: Syed Ata Ur Rahaman 
 Roll number: 2311CS040156  
 Date: 2026-09-22
 
@@ -9,7 +9,7 @@ This folder contains the internal submission for:
 - Question 5: SQL Injection Detection and Prevention
 - Question 7: Password Security and Authentication Testing
 
-The work is prepared as a safe local simulation and dry-run demonstration. It does not claim that DVWA or any external system was actually tested.
+
 
 ## Files
 
