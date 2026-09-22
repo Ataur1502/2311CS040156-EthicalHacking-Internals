@@ -11,7 +11,7 @@ from docx.shared import Inches, Pt
 
 ROOT = Path(__file__).resolve().parent
 ROLL = "2311CS040156"
-NAME = "Ataur"
+NAME = "Syed Ata ur Rahaman"
 DATE = "2026-09-22"
 
 
